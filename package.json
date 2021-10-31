@@ -1,6 +1,6 @@
 {
   "name": "@mtti/package-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dummy repo for CI testing",
   "author": "Matti Hiltunen",
   "license": "Apache-2.0",
